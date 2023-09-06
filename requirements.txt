@@ -1,0 +1,9 @@
+astropy==5.1
+keras==2.9.0
+matplotlib==3.2.2
+matplotlib==3.6.0
+numpy==1.22.3
+python_osc==1.7.4
+scikit_learn==1.1.2
+scikit_learn==1.1.1
+tensorflow==2.9.1
