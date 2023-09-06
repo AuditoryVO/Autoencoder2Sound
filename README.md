@@ -1,6 +1,6 @@
 # Autoencoder2Sound
 Synthesizes musical notes and chords sonifying the ten-dimensional latent space of a sparse autoencoder that explores the spectra of the MILES stellar library. Data: SVO.
-
+![Autoencoder2Sound](https://github.com/AuditoryVO/Autoencoder2Sound/assets/144262864/8d4e62d5-8ba4-4db7-9a6f-24e8f87bf924)
 CONTENTS
 
 - Model and weights: 2layers_Miles_autoencoder.tf
