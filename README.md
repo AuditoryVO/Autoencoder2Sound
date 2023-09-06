@@ -4,9 +4,9 @@ Synthesizes musical notes and chords sonifying the ten-dimensional latent space 
 CONTENTS
 
 - Model and weights: 2layers_Miles_autoencoder.tf
-- Jupyter notebook 1: Autoencoder2Sound-Demo.ipynb
-- Jupyter notebook 2: Notes-Demo.ipynb
-- Jupyter notebook 3: Chords-Demo.ipynb
+- Jupyter notebook 1: Notes-Demo.ipynb
+- Jupyter notebook 2: Chords-Demo.ipynb
+- Jupyter notebook 3: Autoencoder2Sound-Demo.ipynb
 - CSound/Cabbage file: Autoencoder2Sound.csd
 - Cabbage mask file: Init2.png
 - Sample spectrum: Autoencoder.png
@@ -19,6 +19,6 @@ INSTALLATION
 - Download and install Cabbage-Audio: https://cabbageaudio.com/download/
 - For a direct sonification with pre-calculated autoencoder:
     - Launch Cabbage, open Autoencoder2Sound.csd, and press play
-    - Run Jupyter notebook 2 for notes or 3 for chord demos  
-- To recalculate the weights of the autoencoder run Jupyter notebook 1
+    - Run Jupyter notebook 1 for notes or 2 for chord demos  
+- To recalculate the weights of the autoencoder run Jupyter notebook 3
 - Enjoy the sonifications!
