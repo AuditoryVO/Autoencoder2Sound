@@ -19,6 +19,6 @@ INSTALLATION
 - Download and install Cabbage-Audio: https://cabbageaudio.com/download/
 - For a direct sonification with pre-calculated autoencoder:
     - Launch Cabbage, open Autoencoder2Sound.csd, and press play
-    - Run Jupyter notebook 2 for notes or 3 for chords   
+    - Run Jupyter notebook 2 for notes or 3 for chord demos  
 - To recalculate the weights of the autoencoder run Jupyter notebook 1
 - Enjoy the sonifications!
