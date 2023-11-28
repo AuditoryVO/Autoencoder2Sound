@@ -31,7 +31,9 @@ AUTOENCODER2SOUND INSTALLATION
 
 2- Download all the content of this repository into the same folder
 
-3- For a direct sonification with pre-calculated autoencoder:
+3- Install all the dependencies included in the requirements.txt file
+
+4- For a direct sonification with pre-calculated autoencoder:
    - Launch Cabbage, open Autoencoder2Sound.csd, and press play
    - Run Jupyter notebook 1 (Notes-Demo.ipynb) for sequential note sonification
    - Add your path to the downloaded spectra before running all the cells
@@ -39,7 +41,7 @@ AUTOENCODER2SOUND INSTALLATION
    - Add your path to the downloaded spectra before running all the cells
 
 
-4- To recalculate the weights of the autoencoder for the MILES stellar library run Jupyter notebook 3 (Autoencoder2Sound-Demo)
+5- To recalculate the weights of the autoencoder for the MILES stellar library run Jupyter notebook 3 (Autoencoder2Sound-Demo)
    - Add your path to the downloaded spectra before running all the cells
 
 Enjoy the sonifications!
