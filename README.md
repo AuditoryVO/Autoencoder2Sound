@@ -11,6 +11,8 @@ CONTENTS
 - CSound/Cabbage file: Autoencoder2Sound.csd
 - Cabbage mask file: Init2.png
 - Sample spectrum: Autoencoder.png
+- LICENSE
+- README
 - requirements.txt
 
 CABBAGE/CSOUND INSTALLATION
