@@ -38,7 +38,7 @@ AUTOENCODER2SOUND INSTALLATION
 4- For a direct sonification with pre-calculated autoencoder:
    - Launch Cabbage, open Autoencoder2Sound.csd, and press play
    
-   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PulginId” to avoid warnings.
+   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PluginId” to avoid warnings.
 
    - Run Jupyter notebook 1 (Notes-Demo.ipynb) for sequential note sonification
    - Add your path to the downloaded spectra before running all the cells
